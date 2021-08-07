@@ -1,0 +1,21 @@
+{
+  "name": "bv-admin-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bv-admin": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "node-fetch": "^2.6.1",
+    "prompt-password": "^1.2.0",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^4.2.0"
+  }
+}
