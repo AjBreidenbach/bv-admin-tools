@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fridgerator/pynode": "github:fridgerator/PyNode",
     "commander": "^8.1.0",
     "node-fetch": "^2.6.1",
     "prompt-password": "^1.2.0",
